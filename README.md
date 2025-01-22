@@ -13,4 +13,4 @@ The simulation is run with Gadget-4 ($L = 1.5 h^{-1} \mathrm{Gpc},\ N = 2048^3$)
 and the initial condition ($z = 24$) is generated with monofonic at 3LPT assuming "Planck2018EE" cosmology.  
 The density grids are computed with CIC assignment scheme, and the window function is deconvoluted in Fourier space.  
 The halo finder is SubFind (on the fly in Gadget-4), and the halo mass definition is Mvir.  
-There are 4 mass bins: [10^12.5, 10^13], [10^13, 10^13.5], [10^13.5, 10^14], [10^14, 10^14.5]
+There are 4 mass bins: [10^12.5, 10^13], [10^13, 10^13.5], [10^13.5, 10^14], [10^14, 10^14.5] in Msun/h.
