@@ -9,7 +9,7 @@ This repo provides density grids generated from N-body simulation for field-leve
 
 
 ### Technical details
-The simulation is run with Gadget-4 ($L = 1.5 h^{-1} \, \mathrm{Gpc},\ N = 2048^3$)
+The simulation is run with Gadget-4 ($L = 1.5 h^{-1} \mathrm{Gpc},\ N = 2048^3$)
 and the initial condition ($z = 64$) is generated with monofonic at 3LPT assuming "Planck2018EE" cosmology.  
 The density grids are computed with CIC assignment scheme and window function is deconvoluted in Fourier space.  
 The halo finder is SubFind (on the fly in Gadget-4) and the halo mass definition is Mvir.  
